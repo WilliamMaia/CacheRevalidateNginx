@@ -1,6 +1,6 @@
 services:
 
-  backend1:
+  app1:
     build: ./backend1
     working_dir: /app
     volumes:
